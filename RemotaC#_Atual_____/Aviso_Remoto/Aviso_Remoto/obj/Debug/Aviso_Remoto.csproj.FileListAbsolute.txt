@@ -1,0 +1,14 @@
+C:\Users\lord\Desktop\Aviso_Remoto\Aviso_Remoto\bin\Debug\Aviso_Remoto.exe.config
+C:\Users\lord\Desktop\Aviso_Remoto\Aviso_Remoto\bin\Debug\Aviso_Remoto.exe
+C:\Users\lord\Desktop\Aviso_Remoto\Aviso_Remoto\bin\Debug\Aviso_Remoto.pdb
+C:\Users\lord\Desktop\Aviso_Remoto\Aviso_Remoto\obj\Debug\Aviso_Remoto.csprojResolveAssemblyReference.cache
+C:\Users\lord\Desktop\Aviso_Remoto\Aviso_Remoto\obj\Debug\Aviso_Remoto.exe
+C:\Users\lord\Desktop\Aviso_Remoto\Aviso_Remoto\obj\Debug\Aviso_Remoto.pdb
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____\Aviso_Remoto\Aviso_Remoto\bin\Debug\Aviso_Remoto.exe.config
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____\Aviso_Remoto\Aviso_Remoto\obj\Debug\Aviso_Remoto.exe
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____\Aviso_Remoto\Aviso_Remoto\obj\Debug\Aviso_Remoto.pdb
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____\Aviso_Remoto\Aviso_Remoto\bin\Debug\Aviso_Remoto.exe
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____\Aviso_Remoto\Aviso_Remoto\bin\Debug\Aviso_Remoto.pdb
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____\Aviso_Remoto\Aviso_Remoto\obj\Debug\Interop.WMPLib.dll
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____\Aviso_Remoto\Aviso_Remoto\obj\Debug\Aviso_Remoto.csproj.ResolveComReference.cache
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____\Aviso_Remoto\Aviso_Remoto\obj\Debug\Aviso_Remoto.csprojResolveAssemblyReference.cache

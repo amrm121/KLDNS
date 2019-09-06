@@ -1,0 +1,108 @@
+
+Sempre que fechar ou se por um acaso o Operador travar a qualquer momento,
+tu fecha ele em seguida finaliza o processo dele no Gerenciador
+de Tarefas, senão quando for abrir novamente vai da bug ok?
+
+LEMBRE-SE SEMPRE DISSO!
+
+======================================== TUTORIAL DE USO ==========================================
+
+Vou dá uma pequena aula de explicação de uso pra tu:
+
+1º Coloque a senha 123 pra conectar
+
+2º Ativar o Operador
+
+3º Quando aparecer as vítimas online vc deixa lá quieto, por enquanto não faz nada =)
+
+4º Quando apitar algum site de banco naquele apito de pc que te mandei, vc vai selecionar no List o PC 
+   informado no apito e clicar na opção Remote acess, com isso vc vai passar a ver cada passo 
+   da vítima (tela normal dela).
+
+5º A partir disso vc fica observando que tipo de info (PF ou PJ) é, quando ele logar nela.
+
+6º Após descobrir o tipo da info, vc vai dá um ALT+F4 (pra sair do FullScreen) e vai escolher 
+   as telas fakes (opção Telas Fake) pra solicitar as infos de acordo com o tipo da info da vítima atual.
+
+OBS: Segundo informações que colhi, dentre os bancos acc nessa KL, CEF é a única
+     com apenas uma info a ser solicitada tanto para PF quanto PJ, que é a Assinatura eletrônica.
+
+7º Todas as telas fakes vc quem se encarrega de enviar, pois elas não vão aparecendo pra vítima em sequência,
+   ou seja, a vítima fechou uma tela fake, daí vc ja manda a próxima (sempre de acordo com o tipo da info)
+
+8º A primeira tela fake (ENTRADA) é a nossa tela de "engenharia", ela deve ser sempre a primeira a ser
+   enviada à vítima; então quando a vítima sair (fechar) da tela ENTRADA, vc continua com o passo 7º =)
+
+9º Todas as infos enviadas, serão armazenadas em primeiro momento da pasta: Infos, em arquivos.txt, da seguinte forma:
+
+INFO_1
+INFO_2
+INFO_3
+...
+
+e assim por diante, sempre enumeradas em sequência. 
+
+Dentro de cada arquivo terá as seguintes informações:
+
+Tipo de senha
+PC que enviou esta senha
+E a senha de fato
+
+10º Com relação a pasta de nome: Infos2, funciona da seguinte forma:
+  
+Caso o Operador trave ou quando vc fechálo, ele vai zerar o contador que enumera o nome esses arquivos.txt, com isso
+quando vc retornar com o Operador e a pessoa lhe enviar uma info qualquer, o primeiro arquivo.txt que será enviado 
+será o: INFO_1 (que possívelmente já pode existir na pasta: Infos), com isso para evitar a perca dos dados do 
+arquivo INFO_1 anterior presente na pasta: Infos, ele irá salvar esse novo arquivo INFO_1 na pasta: Infos2.
+
+OBS: Caso queira guardar pra vc (por algum motivo) todas as infos que cairem, melhor guardar todos esses arquivos.txt 
+     de forma mais organizada em outro lugar assim que ir finalizando (virando) com cada info banker. 
+
+     A pasta: Infos2, é apenas uma alterntiva pra ajudar caso vc esqueça de tirar esses arquivos de dentro dessas pastas.
+     Mas não é eficiente, pois caso algum arquivo de mesmo nome ja estiver tbm na pasta: Infos2, os dados anteriores serão sobrescritos.
+     
+
+11º Em relação a parte de virar a info, pagar letos ou coisa do tipo se faz da seguinte forma:
+
+De posse das infos necessárias para a realização de tal processo, os passos são como segue:
+
+11.1 - Selecionar no List o pc alvo (o qual vc vai virar a info banker)
+11.2 - Ir na opção Telas Fake e procurar a opção do loader referente ao banco e tipo da info em questão.
+11.3 - Enviar a tela do loader pra vítima clicando na opção correspondente a tela de loader
+11.4 - Com o pc selecionado no List, vá na opção Listar janelas e clique nela, daí espere finalizar 
+       a listagem das janelas abertas da vítima
+
+11.5 - Selecione na listagem a janela referente ao banco.
+11.6 - Após o passo 11.5, repetir o passo 11.1 e ir na opção Navegador e clicar nela, 
+       daí vai abrir a janela do banco no Operador, então é só ir colocando as infos que vc colheu antes 
+       conforme for solicitando. 
+
+OBS: Como a tela de vizualização dessa KL é em FullScreen, vc vai ter que fechar (ALT+F4) e retornar a tela de vizualização
+     nesse caso pela opção Navegador, para pegar a info (caso queira digitar diretamente pelo teclado físico),
+     ou então vc marca com o cursor o campo que vai escrever no site, fecha (ALT+F4), 
+     pega a info e usa o campo: Enviar texto (no Operador), para escrever lá no site.
+
+     Para enviar o texto, selecione o pc alvo no List, vá na opão Enviar Texto e clica nela. 
+
+     Para confirmar no site é só voltar na tela de vizualização (opção Navegador) e "dá um OK lá" =D  
+
+* Toda essa OBS vale para em caso de passar mais de um dado pro site do banco.
+
+12º Após finalizar com o processo da OBS anterior, para voltar a ver o Desktop normal da vítima, 
+    é só dá um "Navegador Off", e por um acaso se vc quiser, é só clica na opção Acess remote, caso contrário,
+    é só esperar alguma outra vítima acessar algum site de banco novamente e repetir todos esses passos até então kkkkkkk
+
+OBS final: Caso quando for ver o site do banco, aparecer só um pedaço da barra de títulos da janela, 
+           é porque ela está minimizada lá na vítima, não é bug da KL ok? 
+
+	   Ou então caso queira ver uma outra janela e dê numa tela preta
+           é porque a listagem de jenelas contém janelas que já foram fechadas pela vítima, 
+           para evitar isso de tela preta, mantenha a listagem de janelas sempre atualizada 
+           através da opção: Listar janelas =D
+    
+
+
+
+
+
+============================================= TUTORIAL DE USO =================================================

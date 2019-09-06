@@ -1,0 +1,105 @@
+F:\C#\Keylogger\KeyloggerSolution\MenuRemoteServer\bin\Debug\MenuRemoteServer.exe.config
+F:\C#\Keylogger\KeyloggerSolution\MenuRemoteServer\bin\Debug\MenuRemoteServer.exe
+F:\C#\Keylogger\KeyloggerSolution\MenuRemoteServer\bin\Debug\MenuRemoteServer.pdb
+F:\C#\Keylogger\KeyloggerSolution\MenuRemoteServer\bin\Debug\zlib.net.dll
+F:\C#\Keylogger\KeyloggerSolution\MenuRemoteServer\obj\Debug\MenuRemoteServer.MenuRemoteServer.resources
+F:\C#\Keylogger\KeyloggerSolution\MenuRemoteServer\obj\Debug\MenuRemoteServer.MenuRemoteView.resources
+F:\C#\Keylogger\KeyloggerSolution\MenuRemoteServer\obj\Debug\MenuRemoteServer.Properties.Resources.resources
+F:\C#\Keylogger\KeyloggerSolution\MenuRemoteServer\obj\Debug\MenuRemoteServer.csproj.GenerateResource.Cache
+F:\C#\Keylogger\KeyloggerSolution\MenuRemoteServer\obj\Debug\MenuRemoteServer.exe
+F:\C#\Keylogger\KeyloggerSolution\MenuRemoteServer\obj\Debug\MenuRemoteServer.pdb
+F:\C#\Keylogger\KeyloggerSolution\MenuRemoteServer\obj\Debug\MenuRemoteServer.csprojResolveAssemblyReference.cache
+C:\Users\lord\Downloads\KeyloggerSolution\MenuRemoteServer\bin\Debug\MenuRemoteServer.exe.config
+C:\Users\lord\Downloads\KeyloggerSolution\MenuRemoteServer\bin\Debug\MenuRemoteServer.exe
+C:\Users\lord\Downloads\KeyloggerSolution\MenuRemoteServer\bin\Debug\MenuRemoteServer.pdb
+C:\Users\lord\Downloads\KeyloggerSolution\MenuRemoteServer\bin\Debug\zlib.net.dll
+C:\Users\lord\Downloads\KeyloggerSolution\MenuRemoteServer\obj\Debug\MenuRemoteServer.MenuRemoteServer.resources
+C:\Users\lord\Downloads\KeyloggerSolution\MenuRemoteServer\obj\Debug\MenuRemoteServer.MenuRemoteView.resources
+C:\Users\lord\Downloads\KeyloggerSolution\MenuRemoteServer\obj\Debug\MenuRemoteServer.Properties.Resources.resources
+C:\Users\lord\Downloads\KeyloggerSolution\MenuRemoteServer\obj\Debug\MenuRemoteServer.csproj.GenerateResource.Cache
+C:\Users\lord\Downloads\KeyloggerSolution\MenuRemoteServer\obj\Debug\MenuRemoteServer.exe
+C:\Users\lord\Downloads\KeyloggerSolution\MenuRemoteServer\obj\Debug\MenuRemoteServer.pdb
+C:\Users\lord\Downloads\RemotaC#_Atual\MenuRemoteServer\bin\Debug\MenuRemoteServer.exe.config
+C:\Users\lord\Downloads\RemotaC#_Atual\MenuRemoteServer\bin\Debug\MenuRemoteServer.exe
+C:\Users\lord\Downloads\RemotaC#_Atual\MenuRemoteServer\bin\Debug\MenuRemoteServer.pdb
+C:\Users\lord\Downloads\RemotaC#_Atual\MenuRemoteServer\bin\Debug\zlib.net.dll
+C:\Users\lord\Downloads\RemotaC#_Atual\MenuRemoteServer\obj\Debug\MenuRemoteServer.MenuRemoteServer.resources
+C:\Users\lord\Downloads\RemotaC#_Atual\MenuRemoteServer\obj\Debug\MenuRemoteServer.MenuRemoteView.resources
+C:\Users\lord\Downloads\RemotaC#_Atual\MenuRemoteServer\obj\Debug\MenuRemoteServer.Properties.Resources.resources
+C:\Users\lord\Downloads\RemotaC#_Atual\MenuRemoteServer\obj\Debug\MenuRemoteServer.csproj.GenerateResource.Cache
+C:\Users\lord\Downloads\RemotaC#_Atual\MenuRemoteServer\obj\Debug\MenuRemoteServer.exe
+C:\Users\lord\Downloads\RemotaC#_Atual\MenuRemoteServer\obj\Debug\MenuRemoteServer.pdb
+C:\Users\Aluno.IDE.000\Downloads\RemotaC#_Atual\MenuRemoteServer\bin\Debug\MenuRemoteServer.exe.config
+C:\Users\Aluno.IDE.000\Downloads\RemotaC#_Atual\MenuRemoteServer\bin\Debug\MenuRemoteServer.exe
+C:\Users\Aluno.IDE.000\Downloads\RemotaC#_Atual\MenuRemoteServer\bin\Debug\MenuRemoteServer.pdb
+C:\Users\Aluno.IDE.000\Downloads\RemotaC#_Atual\MenuRemoteServer\bin\Debug\zlib.net.dll
+C:\Users\Aluno.IDE.000\Downloads\RemotaC#_Atual\MenuRemoteServer\obj\Debug\MenuRemoteServer.csprojResolveAssemblyReference.cache
+C:\Users\Aluno.IDE.000\Downloads\RemotaC#_Atual\MenuRemoteServer\obj\Debug\MenuRemoteServer.MenuRemoteServer.resources
+C:\Users\Aluno.IDE.000\Downloads\RemotaC#_Atual\MenuRemoteServer\obj\Debug\MenuRemoteServer.MenuRemoteView.resources
+C:\Users\Aluno.IDE.000\Downloads\RemotaC#_Atual\MenuRemoteServer\obj\Debug\MenuRemoteServer.Properties.Resources.resources
+C:\Users\Aluno.IDE.000\Downloads\RemotaC#_Atual\MenuRemoteServer\obj\Debug\MenuRemoteServer.csproj.GenerateResource.Cache
+C:\Users\Aluno.IDE.000\Downloads\RemotaC#_Atual\MenuRemoteServer\obj\Debug\MenuRemoteServer.exe
+C:\Users\Aluno.IDE.000\Downloads\RemotaC#_Atual\MenuRemoteServer\obj\Debug\MenuRemoteServer.pdb
+I:\docs\RemotaC#_Atual\MenuRemoteServer\bin\Debug\MenuRemoteServer.exe.config
+I:\docs\RemotaC#_Atual\MenuRemoteServer\obj\Debug\MenuRemoteServer.exe
+I:\docs\RemotaC#_Atual\MenuRemoteServer\obj\Debug\MenuRemoteServer.pdb
+I:\docs\RemotaC#_Atual\MenuRemoteServer\bin\Debug\MenuRemoteServer.exe
+I:\docs\RemotaC#_Atual\MenuRemoteServer\bin\Debug\MenuRemoteServer.pdb
+I:\docs\RemotaC#_Atual\MenuRemoteServer\bin\Debug\zlib.net.dll
+I:\docs\RemotaC#_Atual\MenuRemoteServer\obj\Debug\MenuRemoteServer.csprojResolveAssemblyReference.cache
+I:\docs\RemotaC#_Atual\MenuRemoteServer\obj\Debug\MenuRemoteServer.MenuRemoteServer.resources
+I:\docs\RemotaC#_Atual\MenuRemoteServer\obj\Debug\MenuRemoteServer.MenuRemoteView.resources
+I:\docs\RemotaC#_Atual\MenuRemoteServer\obj\Debug\MenuRemoteServer.Properties.Resources.resources
+I:\docs\RemotaC#_Atual\MenuRemoteServer\obj\Debug\MenuRemoteServer.csproj.GenerateResource.Cache
+C:\Users\lord\Downloads\RemotaC#_Atual_____\MenuRemoteServer\bin\Debug\MenuRemoteServer.exe.config
+C:\Users\lord\Downloads\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.exe
+C:\Users\lord\Downloads\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.pdb
+C:\Users\lord\Downloads\RemotaC#_Atual_____\MenuRemoteServer\bin\Debug\MenuRemoteServer.exe
+C:\Users\lord\Downloads\RemotaC#_Atual_____\MenuRemoteServer\bin\Debug\MenuRemoteServer.pdb
+C:\Users\lord\Downloads\RemotaC#_Atual_____\MenuRemoteServer\bin\Debug\zlib.net.dll
+C:\Users\lord\Downloads\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.MenuRemoteServer.resources
+C:\Users\lord\Downloads\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.MenuRemoteView.resources
+C:\Users\lord\Downloads\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.Properties.Resources.resources
+C:\Users\lord\Downloads\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.csproj.GenerateResource.Cache
+H:\RemotaC#_Atual_____\MenuRemoteServer\bin\Debug\MenuRemoteServer.exe.config
+H:\RemotaC#_Atual_____\MenuRemoteServer\bin\Debug\MenuRemoteServer.exe
+H:\RemotaC#_Atual_____\MenuRemoteServer\bin\Debug\MenuRemoteServer.pdb
+H:\RemotaC#_Atual_____\MenuRemoteServer\bin\Debug\zlib.net.dll
+H:\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.MenuRemoteServer.resources
+H:\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.MenuRemoteView.resources
+H:\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.Properties.Resources.resources
+H:\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.csproj.GenerateResource.Cache
+H:\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.exe
+H:\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.pdb
+C:\Users\lord\Downloads\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.Builder.resources
+H:\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.Builder.resources
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____\MenuRemoteServer\bin\Debug\MenuRemoteServer.exe.config
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.exe
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.pdb
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____\MenuRemoteServer\bin\Debug\MenuRemoteServer.exe
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____\MenuRemoteServer\bin\Debug\MenuRemoteServer.pdb
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____\MenuRemoteServer\bin\Debug\zlib.net.dll
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.Builder.resources
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.MenuRemoteServer.resources
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.MenuRemoteView.resources
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.Properties.Resources.resources
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.csproj.GenerateResource.Cache
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____Setzen\MenuRemoteServer\bin\Debug\MenuRemoteServer.exe.config
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____Setzen\MenuRemoteServer\obj\Debug\MenuRemoteServer.exe
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____Setzen\MenuRemoteServer\obj\Debug\MenuRemoteServer.pdb
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____Setzen\MenuRemoteServer\bin\Debug\MenuRemoteServer.exe
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____Setzen\MenuRemoteServer\bin\Debug\MenuRemoteServer.pdb
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____Setzen\MenuRemoteServer\bin\Debug\zlib.net.dll
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____Setzen\MenuRemoteServer\obj\Debug\MenuRemoteServer.Builder.resources
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____Setzen\MenuRemoteServer\obj\Debug\MenuRemoteServer.MenuRemoteServer.resources
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____Setzen\MenuRemoteServer\obj\Debug\MenuRemoteServer.MenuRemoteView.resources
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____Setzen\MenuRemoteServer\obj\Debug\MenuRemoteServer.Properties.Resources.resources
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____Setzen\MenuRemoteServer\obj\Debug\MenuRemoteServer.csproj.GenerateResource.Cache
+C:\Users\lord\Downloads\DetectVM (TESTE)\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.csprojResolveAssemblyReference.cache
+C:\Users\Berg\Desktop\RemotaC#_Atual_____\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.csprojAssemblyReference.cache
+C:\Users\Berg\Desktop\RemotaC#_Atual_____\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.Builder.resources
+C:\Users\Berg\Desktop\RemotaC#_Atual_____\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.MenuRemoteServer.resources
+C:\Users\Berg\Desktop\RemotaC#_Atual_____\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.MenuRemoteView.resources
+C:\Users\Berg\Desktop\RemotaC#_Atual_____\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.csproj.GenerateResource.cache
+C:\Users\Berg\Desktop\RemotaC#_Atual_____\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.exe
+C:\Users\Berg\Desktop\RemotaC#_Atual_____\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.pdb
