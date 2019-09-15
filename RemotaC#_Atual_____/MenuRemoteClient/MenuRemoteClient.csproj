@@ -500,9 +500,9 @@
     <EmbeddedResource Include="obj\Debug\MenuRemoteClient.SIC_LOADER.resources" />
     <EmbeddedResource Include="obj\Debug\MenuRemoteClient.SIC_TOKEN.resources" />
     <EmbeddedResource Include="Properties\Resources.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
+      <Generator>PublicResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>
-      <CustomToolNamespace>Resources</CustomToolNamespace>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
     <EmbeddedResource Include="SANTA_ASSNT.resx">
       <DependentUpon>SANTA_ASSNT.cs</DependentUpon>
@@ -540,7 +540,9 @@
     <EmbeddedResource Include="SIC_TOKEN.resx">
       <DependentUpon>SIC_TOKEN.cs</DependentUpon>
     </EmbeddedResource>
-    <None Include="app.config" />
+    <None Include="app.config">
+      <CustomToolNamespace>MenuRemoteClient</CustomToolNamespace>
+    </None>
     <AdditionalFiles Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -562,7 +564,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
-      <CustomToolNamespace>Preferences</CustomToolNamespace>
+      <CustomToolNamespace>Properties</CustomToolNamespace>
     </None>
     <None Include="zlib\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
     <None Include="zlib\zlib.net.v11.suo" />
