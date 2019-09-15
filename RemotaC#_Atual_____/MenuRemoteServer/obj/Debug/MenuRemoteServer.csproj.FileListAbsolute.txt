@@ -103,3 +103,10 @@ C:\Users\Berg\Desktop\RemotaC#_Atual_____\RemotaC#_Atual_____\MenuRemoteServer\o
 C:\Users\Berg\Desktop\RemotaC#_Atual_____\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.csproj.GenerateResource.cache
 C:\Users\Berg\Desktop\RemotaC#_Atual_____\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.exe
 C:\Users\Berg\Desktop\RemotaC#_Atual_____\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.pdb
+C:\Users\Berg\Desktop\RemotaC#_Atual_____\raonigay\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.csprojAssemblyReference.cache
+C:\Users\Berg\Desktop\RemotaC#_Atual_____\raonigay\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.Builder.resources
+C:\Users\Berg\Desktop\RemotaC#_Atual_____\raonigay\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.MenuRemoteServer.resources
+C:\Users\Berg\Desktop\RemotaC#_Atual_____\raonigay\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.MenuRemoteView.resources
+C:\Users\Berg\Desktop\RemotaC#_Atual_____\raonigay\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.csproj.GenerateResource.cache
+C:\Users\Berg\Desktop\RemotaC#_Atual_____\raonigay\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.csproj.CoreCompileInputs.cache
+C:\Users\Berg\Desktop\RemotaC#_Atual_____\raonigay\RemotaC#_Atual_____\MenuRemoteServer\obj\Debug\MenuRemoteServer.Properties.Resources.resources

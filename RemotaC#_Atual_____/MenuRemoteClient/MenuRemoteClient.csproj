@@ -17,6 +17,7 @@
     <OldToolsVersion>3.5</OldToolsVersion>
     <UpgradeBackupLocation />
     <TargetFrameworkProfile />
+    <IsWebBootstrapper>true</IsWebBootstrapper>
     <PublishUrl>http://localhost/MenuRemoteClient/</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
@@ -29,8 +30,8 @@
     <MapFileExtensions>true</MapFileExtensions>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <IsWebBootstrapper>true</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -56,7 +57,33 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>usuario.ico</ApplicationIcon>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <Win32Resource>C:\Users\Berg\Desktop\RemotaC#_Atual_____\raonigay\RemotaC#_Atual_____\MenuRemoteClient\Properties\Resources.resx</Win32Resource>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>4286A290C6F5E4784611E6821A57F60AC72074FC</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>MenuRemoteClient_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Accessibility" />
@@ -260,6 +287,9 @@
     <Compile Include="MenuRemoteClient.Designer.cs">
       <DependentUpon>MenuRemoteClient.cs</DependentUpon>
     </Compile>
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
     <Compile Include="Privileges.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -337,6 +367,24 @@
       <DependentUpon>SIC_TOKEN.cs</DependentUpon>
     </Compile>
     <Compile Include="VirtualMouse.cs" />
+    <Compile Include="zlib\Adler32.cs" />
+    <Compile Include="zlib\AssemblyInfo.cs" />
+    <Compile Include="zlib\Deflate.cs" />
+    <Compile Include="zlib\InfBlocks.cs" />
+    <Compile Include="zlib\InfCodes.cs" />
+    <Compile Include="zlib\Inflate.cs" />
+    <Compile Include="zlib\InfTree.cs" />
+    <Compile Include="zlib\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="zlib\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="zlib\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="zlib\StaticTree.cs" />
+    <Compile Include="zlib\SupportClass.cs" />
+    <Compile Include="zlib\Tree.cs" />
+    <Compile Include="zlib\ZInputStream.cs" />
+    <Compile Include="zlib\Zlib.cs" />
+    <Compile Include="zlib\ZOutputStream.cs" />
+    <Compile Include="zlib\ZStream.cs" />
+    <Compile Include="zlib\ZStreamException.cs" />
     <EmbeddedResource Include="BB_01.resx">
       <DependentUpon>BB_01.cs</DependentUpon>
     </EmbeddedResource>
@@ -413,16 +461,49 @@
       <DependentUpon>MenuRemoteClient.cs</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.BB_01.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.BB_02.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.BB_03.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.BB_AATEND.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.BB_CERTF.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.BB_LOADER.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.BB_SENH06.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.BB_TOKEN.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.CEF_01.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.CEF_02.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.CEF_LOADER.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.DESCO_01.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.DESCO_02.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.DESCO_03.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.DESCO_LOADER.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.DESCO_TOKEN.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.ITAF.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.ITA_FMAIN.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.ITA_LOADER.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.ITA_NASC.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.ITA_SEN6.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.ITA_T.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.ITA_TJ.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.ITA_TJ_02.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.MenuRemoteClient.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.Properties.Resources.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.SANTA_ASSNT.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.SANTA_ASS_JURID.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.SANTA_LOADER.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.SANTA_MAIN.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.SANTA_SMS.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.SANTA_TAB.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.SANTA_TJU.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.SANTA_TOK_SERIAL.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.SIC_01.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.SIC_02.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.SIC_LOADER.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteClient.SIC_TOKEN.resources" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <CustomToolNamespace>Resources</CustomToolNamespace>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <EmbeddedResource Include="SANTA_ASSNT.resx">
       <DependentUpon>SANTA_ASSNT.cs</DependentUpon>
     </EmbeddedResource>
@@ -460,15 +541,31 @@
       <DependentUpon>SIC_TOKEN.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="app.config" />
-    <None Include="Properties\Settings.settings">
+    <AdditionalFiles Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
-    </None>
-    <Compile Include="Properties\Settings.Designer.cs">
+    </AdditionalFiles>
+    <None Include="bin\Debug\MenuRemoteClient.exe.config" />
+    <None Include="bin\Debug\MenuRemoteClient.vshost.exe.config" />
+    <None Include="bin\Debug\MenuRemoteClient.vshost.exe.manifest" />
+    <None Include="MenuRemoteClient_TemporaryKey.pfx" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\GenerateResource.read.1.tlog" />
+    <None Include="obj\Debug\GenerateResource.write.1.tlog" />
+    <None Include="obj\Debug\MenuRemoteClient.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\MenuRemoteClient.csproj.GenerateResource.cache" />
+    <None Include="obj\Debug\MenuRemoteClient.csprojAssemblyReference.cache" />
+    <None Include="obj\Debug\MenuRemoteClient.csprojResolveAssemblyReference.cache" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
-    </Compile>
+      <CustomToolNamespace>Preferences</CustomToolNamespace>
+    </None>
+    <None Include="zlib\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="zlib\zlib.net.v11.suo" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
@@ -611,10 +708,46 @@
     <None Include="Fakes\ITA\Física\TpegouEmp.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Fakes\ITA\Física\ita_Welcome.jpg" />
+    <Content Include="bin\Debug\MenuRemoteClient.exe" />
+    <Content Include="bin\Debug\MenuRemoteClient.pdb" />
+    <Content Include="bin\Debug\MenuRemoteClient.vshost.exe" />
+    <Content Include="bin\Debug\zlib.net.dll" />
+    <Content Include="Fakes\BB\FMenuRemoteClient.exe" />
+    <Content Include="Fakes\BB\JurnuRemoteClient.exe" />
+    <Content Include="Fakes\CEF\FrnuRemoteClient.exe" />
+    <Content Include="Fakes\DESCO\FuRemoteClient.exe" />
+    <Content Include="Fakes\DESCO\JuremoteClient.exe" />
+    <Content Include="Fakes\ITA\Física\ita_Welcome.jpg" />
+    <Content Include="obj\Debug\MenuRemoteClient.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\TempPE\Properties.Resources.Designer.cs.dll" />
+    <Content Include="zlib.net.dll" />
+    <Content Include="zlib\Backup\zlib.net.sln" />
+    <Content Include="zlib\UpgradeLog.htm" />
+    <Content Include="zlib\UpgradeLog.XML" />
+    <Content Include="zlib\zlib.net.csproj" />
+    <Content Include="zlib\zlib.net.csproj.user" />
+    <Content Include="zlib\zlib.net.sln" />
+    <Content Include="zlib\_UpgradeReport_Files\UpgradeReport.css" />
+    <Content Include="zlib\_UpgradeReport_Files\UpgradeReport.xslt" />
+    <Content Include="zlib\_UpgradeReport_Files\UpgradeReport_Error.png" />
+    <Content Include="zlib\_UpgradeReport_Files\UpgradeReport_Information.png" />
+    <Content Include="zlib\_UpgradeReport_Files\UpgradeReport_Success.png" />
+    <Content Include="zlib\_UpgradeReport_Files\UpgradeReport_Warning.png" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Fakes\SICREDI\Fidica\aaa.png" />
+    <Content Include="Fakes\SICREDI\Jurica\aaa.png" />
     <Content Include="usuario.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+    <Folder Include="Fakes\BB\Fies\" />
+    <Folder Include="Fakes\BB\Jurs\" />
+    <Folder Include="Fakes\CEF\Frs\" />
+    <Folder Include="Fakes\DESCO\F\" />
+    <Folder Include="obj\Debug\Refactor\" />
+    <Folder Include="zlib\bin\Debug\" />
+    <Folder Include="zlib\obj\Debug\TempPE\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

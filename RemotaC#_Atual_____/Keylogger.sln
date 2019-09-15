@@ -1,11 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuRemoteClient", "MenuRemoteClient\MenuRemoteClient.csproj", "{91C392C0-3D0B-46B6-9901-C2EAA33A04AA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuRemoteServer", "MenuRemoteServer\MenuRemoteServer.csproj", "{0A670BE9-3906-4D56-8B4B-106EEB448E6B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{91C392C0-3D0B-46B6-9901-C2EAA33A04AA} = {91C392C0-3D0B-46B6-9901-C2EAA33A04AA}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,5 +27,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCAA3D97-826E-4195-A1CB-AB8707D21CEA}
 	EndGlobalSection
 EndGlobal

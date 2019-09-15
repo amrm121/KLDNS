@@ -432,7 +432,8 @@ namespace MenuRemoteServer
             {
                 try
                 {
-                    listener = new TcpListener(1234);
+                    IPAddress ip1 = new System.Net.IPAddress(Int64.Parse(LocalIPAddress())); 
+                    listener = new TcpListener(ip1, 1234);
                     listener.Start();
                     while (true)
                     {

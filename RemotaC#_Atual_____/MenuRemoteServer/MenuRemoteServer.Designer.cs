@@ -487,7 +487,7 @@
             // 
             this.tDesisntalar.Image = global::MenuRemoteServer.Properties.Resources.defrag1;
             this.tDesisntalar.Name = "tDesisntalar";
-            this.tDesisntalar.Size = new System.Drawing.Size(164, 22);
+            this.tDesisntalar.Size = new System.Drawing.Size(169, 22);
             this.tDesisntalar.Text = "Desistalar Cliente";
             this.tDesisntalar.Click += new System.EventHandler(this.tDesisntalar_Click);
             // 

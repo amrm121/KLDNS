@@ -11,6 +11,21 @@
     <AssemblyName>MenuRemoteServer</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -22,6 +37,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -33,13 +49,25 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>contato.ico</ApplicationIcon>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>MenuRemoteServer.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Win32Resource>C:\Users\Berg\Desktop\RemotaC#_Atual_____\raonigay\RemotaC#_Atual_____\MenuRemoteServer\MenuRemoteServer.resx</Win32Resource>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.Build.Tasks.v4.0" />
     <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Web.Extensions" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -68,6 +96,9 @@
     <Compile Include="MenuRemoteServer.Designer.cs">
       <DependentUpon>MenuRemoteServer.cs</DependentUpon>
     </Compile>
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="MenuRemoteView.cs">
@@ -80,6 +111,7 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
+      <CustomToolNamespace>Resources</CustomToolNamespace>
     </Compile>
     <Compile Include="RemoteClient.cs" />
     <EmbeddedResource Include="Builder.resx">
@@ -91,11 +123,26 @@
     <EmbeddedResource Include="MenuRemoteView.resx">
       <DependentUpon>MenuRemoteView.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="obj\Debug\MenuRemoteServer.Builder.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteServer.MenuRemoteServer.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteServer.MenuRemoteView.resources" />
+    <EmbeddedResource Include="obj\Debug\MenuRemoteServer.Properties.Resources.resources" />
     <EmbeddedResource Include="Properties\Resources.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="bin\Debug\MenuRemoteServer.exe.config" />
+    <None Include="bin\Debug\MenuRemoteServer.v12.suo" />
+    <None Include="bin\Debug\MenuRemoteServer.vshost.exe.config" />
+    <None Include="bin\Debug\MenuRemoteServer.vshost.exe.manifest" />
+    <None Include="obj\Debug\build.force" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\MenuRemoteServer.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\MenuRemoteServer.csproj.GenerateResource.cache" />
+    <None Include="obj\Debug\MenuRemoteServer.csprojAssemblyReference.cache" />
+    <None Include="obj\Debug\MenuRemoteServer.csprojResolveAssemblyReference.cache" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -104,10 +151,13 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <CustomToolNamespace>Properties</CustomToolNamespace>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <CustomToolNamespace>MenuRemoteServer</CustomToolNamespace>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="Icones\defrag.ico" />
@@ -191,15 +241,33 @@
     <None Include="Icones\santander.gif" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bin\Debug\IconChanger.dll" />
+    <Content Include="bin\Debug\Infos\INFO_1.txt" />
+    <Content Include="bin\Debug\MenuRemoteServer.exe" />
+    <Content Include="bin\Debug\MenuRemoteServer.pdb" />
+    <Content Include="bin\Debug\MenuRemoteServer.vshost.exe" />
+    <Content Include="bin\Debug\zlib.net.dll" />
     <Content Include="contato.ico" />
+    <Content Include="obj\Debug\MenuRemoteServer.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\TempPE\Properties.Resources.Designer.cs.dll" />
     <None Include="Icones\monitor_off.jpg" />
-    <None Include="Icones\cifrão.jpg" />
     <None Include="Icones\icons\computer.png" />
     <None Include="Icones\ligar.png" />
     <None Include="Icones\icons\key.png" />
     <None Include="Icones\antena.ico" />
     <None Include="Icones\wifi-signal-full-2.png" />
     <None Include="Icones\criar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\Info2\" />
+    <Folder Include="bin\Release\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
